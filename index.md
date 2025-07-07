@@ -52,7 +52,6 @@ Se recomienda que los estudiantes antes del curso estén habituados con los tema
 # Proyecto de Curso
 <div id='id-proyectos'/>
 
-Durante el curso se realizarán tres proyectos, los cuales se indicarán más adelante. 
 
  
 # Referencias
