@@ -3,7 +3,9 @@
 Este es un curso introductorio a la modelación y simulación computacional, y en general al cómputo científico. Tiene como objetivo cubrir algunos temas relacionados con métodos numéricos computacionales, y se estudian algoritmos para cálculo científico y su implementación computacional. Se estudian tres grandes temas: 
 
 (1) Optimización numérica continua y discreta.
+
 (2) Modelación continua y discreta, principalmente mediante EDO.
+
 (3) Simulación de fenómenos mediante distribuciones de probabilidad. 
 
 La primera parte del curso se enfoca en introducir temas de optimización numérica. Iniciamos formulando problemas de programación lineal, y sus propiedades, e introducimos el algoritmo Simplex. Veremos aplicaciones de programación lineal en problemas de transporte y problemas de asignación. En seguida, hacemos una revisión de algunos métodos de optimización no lineal, principalmente los métodos de gradiente, así como métodos de la familia de gradiente conjugado y métodos quasi-Newton. El tema culmina una introducción a algunos métodos de optimización combinatoria y discreta, como por ejemplo los algoritmos genéticos, y algoritmos evolutivos y de partículas. 
