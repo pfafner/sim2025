@@ -49,8 +49,8 @@ Se recomienda que los estudiantes antes del curso estén habituados con los tema
 **No.**  | **Fecha**    | **Tópicos**                                                   | **Recursos**
 -------- | ------------ | ------------------------------------------------------------- |  ---------------------------------
 01       | 03.07.2025   | Inicio del curso. Motivación de cómputo científico.           |  
-02       | 08.07.2025   | Programación Lineal. Región factible. Forma estándar.         | Taha, Cap. 1
-03       | 10.07.2025   | Variables básicas y no-básicas. Algoritmo Simplex.            | Taha, Cap. 2 y 3
+02       | 08.07.2025   | Programación Lineal. Región factible. Forma estándar.         | Taha, Cap. 1 <br/> Matousek-Gärner, Cap. 4
+03       | 10.07.2025   | Variables básicas y no-básicas. Algoritmo Simplex.            | Taha, Cap. 2 y 3 <br/> Matousek-Gärner, Cap. 5
 
 
 # Proyecto de Curso
