@@ -48,7 +48,9 @@ Se recomienda que los estudiantes antes del curso estén habituados con los tema
 
 **No.**  | **Fecha**    | **Tópicos**                                                   | **Recursos**
 -------- | ------------ | ------------------------------------------------------------- |  ---------------------------------
-01       | 03.07.2025   | Inicio del curso. Motivación de cómputo científico.           | 
+01       | 03.07.2025   | Inicio del curso. Motivación de cómputo científico.           |  
+02       | 08.07.2025   | Programación Lineal. Región factible. Forma estándar.         | Taha, Cap. 1
+03       | 10.07.2025   | Variables básicas y no-básicas. Algoritmo Simplex.            | Taha, Cap. 2 y 3
 
 
 # Proyecto de Curso
@@ -68,6 +70,8 @@ Se recomienda que los estudiantes antes del curso estén habituados con los tema
 * [H. Taha (2017). *Investigación de Operaciones*. 10th Ed.](http://library.lol/main/C25C4AA31A4B1A6C43FC3A48108FF1DA){:target="_blank"}
 
 ### Referencias adicionales:
+
+* [J. Matousek, B. Gärtner, (2007). *Understanding and Using Linear Programming*.](https://libgen.li/ads.php?md5=b760fdd2b747713ec1c8f24301fc2540){:target="_blank"}
 
 * [R. Burden, A. Burden, D. J. Faires (2017). *Análisis numérico.*](http://library.lol/main/87525D7D988D11F87963D6832EAA9493){:target="_blank"}
 
