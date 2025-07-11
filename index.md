@@ -63,7 +63,7 @@ Se recomienda que los estudiantes antes del curso estén habituados con los tema
 
 ### Textos: 
 
-* [S. Ross (2022). *Simulation*. 6th Ed.](http://library.lol/main/173766BF2DE3D62A9816564E7CDA4239){:target="_blank"}
+* [S. Ross (2022). *Simulation*. 6th Ed.](https://libgen.li/ads.php?md5=173766bf2de3d62a9816564e7cda4239){:target="_blank"}
 
 * [K. Atkinson, W. Han y D. Stewart (2009). *Numerical Solution of Ordinary Differential Equations*.](https://homepage.divms.uiowa.edu/~atkinson/papers/NAODE_Book.pdf){:target="_blank"}
 
