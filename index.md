@@ -67,16 +67,13 @@ Se recomienda que los estudiantes antes del curso estén habituados con los tema
 
 * [K. Atkinson, W. Han y D. Stewart (2009). *Numerical Solution of Ordinary Differential Equations*.](https://homepage.divms.uiowa.edu/~atkinson/papers/NAODE_Book.pdf){:target="_blank"}
 
-* [H. Taha (2017). *Investigación de Operaciones*. 10th Ed.](http://library.lol/main/C25C4AA31A4B1A6C43FC3A48108FF1DA){:target="_blank"}
+* [H. Taha (2017). *Investigación de Operaciones*. 9a. Ed.](https://libgen.li/ads.php?md5=976e88a1d93760afbdf54160edc5ab5a){:target="_blank"}
 
 ### Referencias adicionales:
 
 * [J. Matousek, B. Gärtner, (2007). *Understanding and Using Linear Programming*.](https://libgen.li/ads.php?md5=b760fdd2b747713ec1c8f24301fc2540){:target="_blank"}
 
-* [R. Burden, A. Burden, D. J. Faires (2017). *Análisis numérico.*](http://library.lol/main/87525D7D988D11F87963D6832EAA9493){:target="_blank"}
-
-* [J. Matousek, B. Gärtner, (2007). *Understanding and Using
-Linear Programming*.](http://library.lol/main/4E0F73DC6A1E36D157A69F09D3834452){:target="_blank"}
+* [R. Burden, A. Burden, D. J. Faires (2017). *Análisis numérico.*](https://libgen.li/ads.php?md5=8b84557e0b5a5c8effd22ce47bc2737f){:target="_blank"}
 
 * [M. Martcheva (2010). *An Introduction to Mathematical Epidemiology*.](http://library.lol/main/B49DE076CF4518052FFBA1E0B8D3BD1F){:target="_blank"}
 
