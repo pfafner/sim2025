@@ -54,7 +54,7 @@ Se recomienda que los estudiantes antes del curso estén habituados con los tema
 04       | 15.07.2025   |  | 
 
 
-# Proyecto de Curso
+# Proyectos
 <div id='id-proyectos'/>
 
 Durante el curso se realizarán tres proyectos, los cuales se indicarán más adelante. 
