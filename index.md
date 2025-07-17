@@ -51,7 +51,8 @@ Se recomienda que los estudiantes antes del curso estén habituados con los tema
 01       | 03.07.2025   | Inicio del curso. Motivación de cómputo científico. <br/> [Aula 01](aulas/Aula01.pdf){:target="_blank"} |  
 02       | 08.07.2025   | Programación Lineal. Región factible. Forma estándar.         | Taha, Cap. 1 <br/> Matousek-Gärner, Cap. 4
 03       | 10.07.2025   | Variables básicas y no-básicas. Algoritmo Simplex.            | Taha, Cap. 2 y 3 <br/> Matousek-Gärner, Cap. 5 <br/> [Simplex.xlsx](code/Simplex.xlsx){:target="_blank"}
-04       | 15.07.2025   | Formulación de problemas de PL. Uso de Julia o Python.       | 
+04       | 15.07.2025   | Formulación de problemas de PL. Uso de Julia o Python.        |  
+L1       | 17.07.2025   | Lab 01.                                                       |  
 
 
 # Proyectos
