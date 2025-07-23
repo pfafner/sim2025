@@ -53,7 +53,7 @@ Se recomienda que los estudiantes antes del curso estén habituados con los tema
 03       | 10.07.2025   | Variables básicas y no-básicas. Algoritmo Simplex.            | Taha, Cap. 2 y 3 <br/> Matousek-Gärner, Cap. 5 <br/> [Simplex.xlsx](code/Simplex.xlsx){:target="_blank"}
 04       | 15.07.2025   | Formulación de problemas de PL. Uso de Julia o Python.        | [Ejemplo1.ipynb](code/Ejemplo1.ipynb){:target="_blank"} <br/> [Ejemplo3.ipynb](code/Ejemplo3.ipynb){:target="_blank"} <br/> [Ejemplo_Fábrica.ipynb](code/Ejemplo_Fábrica.ipynb){:target="_blank"} 
 L1       | 17.07.2025   | Lab 01.                                                       | [Lab 01](labs/lab01.pdf){:target="_blank"} <br/> **Entrega: 24 de julio**  
-05       |              |   |    
+05       | 22.07.2025   | Problemas de transporte. Problemas de asignación. <br/> | [Asignment.ipynb](code/Asignment.ipynb){:target="_blank"} <br/> [Transport.ipynb](code/Transport.ipynb){:target="_blank"}   
 
 
 # Proyectos
