@@ -56,6 +56,7 @@ L1       | 17.07.2025   | Lab 01.                                               
 05       | 22.07.2025   | Problemas de transporte. Problemas de asignación. <br/> | [Asignment.ipynb](code/Asignment.ipynb){:target="_blank"} <br/> [Transport.ipynb](code/Transport.ipynb){:target="_blank"}   
 06       | 24.07.2025   | Métodos iterativos para calcular raíces: Bisección, Secante.  |   
 07       | 29.07.2025   | Méttodo de Newton-Raphson. Método de Newton en varias variables.  | 
+L2       | 29.07.2025   | Lab 02.                                                       | [Lab 02](labs/lab02.pdf){:target="_blank"} <br/> **Entrega: 5 de agosto**  
 
 
 # Proyectos
