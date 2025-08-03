@@ -54,8 +54,8 @@ Se recomienda que los estudiantes antes del curso estén habituados con los tema
 04       | 15.07.2025   | Formulación de problemas de PL. Uso de Julia o Python.        | [Ejemplo1.ipynb](code/Ejemplo1.ipynb){:target="_blank"} <br/> [Ejemplo3.ipynb](code/Ejemplo3.ipynb){:target="_blank"} <br/> [Ejemplo_Fábrica.ipynb](code/Ejemplo_Fábrica.ipynb){:target="_blank"} 
 L1       | 17.07.2025   | Lab 01.                                                       | [Lab 01](labs/lab01.pdf){:target="_blank"} <br/> **Entrega: 24 de julio**  
 05       | 22.07.2025   | Problemas de transporte. Problemas de asignación. <br/> | [Asignment.ipynb](code/Asignment.ipynb){:target="_blank"} <br/> [Transport.ipynb](code/Transport.ipynb){:target="_blank"}   
-06       | 24.07.2025   | Métodos iterativos para calcular raíces: Bisección, Secante.  | Burden-Faires, Secciones 2.1 a 2.4  
-07       | 29.07.2025   | Méttodo de Newton-Raphson. Método de Newton en varias variables.  | 
+06       | 24.07.2025   | Métodos iterativos para calcular raíces: Bisección, Secante, método de Newton-Raphson.  | Burden-Faires, Secciones 2.1 a 2.4  
+07       | 29.07.2025   | Método de Newton en varias variables. <br/>  | Burden-Faires, Sección 10.2
 L2       | 29.07.2025   | Lab 02.                                                       | [Lab 02](labs/lab02.pdf){:target="_blank"} <br/> **Entrega: 5 de agosto**  
 
 
