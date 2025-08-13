@@ -58,7 +58,10 @@ L1       | 17.07.2025   | Lab 01.                                               
 07       | 29.07.2025   | Método de Newton en varias variables. <br/>  | Burden-Faires, Sección 10.2
 L2       | 29.07.2025   | Lab 02.                                                       | [Lab 02](labs/lab02.pdf){:target="_blank"} <br/> **Entrega: 5 de agosto**  
 08       | 31.08.2025   | Optimización 1-dimensional. <br/>  | 
-09       | 07.08.2025   | Optimización continua Tipos de mínimos.  <br/>  | 
+09       | 07.08.2025   | Optimización continua. Tipos de mínimos.  <br/>  | 
+10       | 12.08.2025   | Descenso gradiente.  <br/>  | 
+
+
 
 
 # Proyectos
