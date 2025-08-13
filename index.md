@@ -60,7 +60,7 @@ L2       | 29.07.2025   | Lab 02.                                               
 08       | 31.08.2025   | Optimización 1-dimensional. <br/>  [Aula 08](aulas/Aula08.pdf){:target="_blank"} | 
 09       | 07.08.2025   | Optimización continua. Tipos de mínimos.  <br/>  [Aula 09](aulas/Aula09.pdf){:target="_blank"} | 
 10       | 12.08.2025   | Descenso gradiente. Gradiente estocástico. <br/>  [Aula 10](aulas/Aula10.pdf){:target="_blank"} | [Stochastic Gradient Descent (SGD)](https://www.ruder.io/optimizing-gradient-descent/){:target="_blank"} 
-11       | 12.08.2025   | Gradiente conjugado. Métodos Quasi-Newton: SR1, DPF, BFGS.  | 
+11       | 12.08.2025   | Gradiente conjugado. Métodos Quasi-Newton: SR1, DPF, BFGS.  [Aula 11](aulas/Aula11.pdf){:target="_blank"} [Aula 12](aulas/Aula12.pdf){:target="_blank"} |  
 
 
 # Proyectos
