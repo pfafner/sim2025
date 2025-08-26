@@ -64,7 +64,7 @@ L2       | 29.07.2025   | Lab 02.                                               
 L3       | 14.08.2025   | Lab 03.                                                       | [Lab 03](labs/lab03.pdf){:target="_blank"} <br/> [datos_lab3.csv](labs/datos_lab3.csv){:target="_blank"} <br/> **Entrega: 21 de agosto** 
 12       | 19.08.2025   | Optimización discreta. Representación. <br/> [Aula 14](aulas/Aula14.pdf){:target="_blank"} |  
 13       | 19.08.2025   | Algoritmos genéticos (GA). <br/> [Aula 15](aulas/Aula15.pdf){:target="_blank"} |  
-14       | 21.08.2025   | Operadores de cruce y de mutación. Ejemplos GA. <br/> |  
+14       | 21.08.2025   | Operadores de cruce y de mutación. Ejemplos GA. <br/> | Operadores para TSP <br/> [Larrañaga et al.](lectures/Larranaga_GA_for_TSP.pdf){:target="_blank"} 
 
 
 # Proyectos
