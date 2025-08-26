@@ -77,9 +77,7 @@ Durante el curso se realizarán tres proyectos.
 -------- | ------------ | --------------------------------------------- |  -------------------------------------
  1       | 26.08.2025   | Proyecto - *Algoritmos Genéticos + LP/QP*     | [Proyecto](proyectos/Proyecto.pdf){:target="_blank"} <br/> **Entrega: 24 de noviembre.** 
  2       | 23.09.2025   | Diseñar un algoritmo genético o resolver el problema de programación lineal, correspondiente a un TSP o a un VRP. <br/> |  
- 3       |              | Las instancias que se trabajarán serán a nivel industrial. Vamos a considerar las siguientes fuentes de datos: <br/> 
-                          TSP: [comopt.ifi.uni-heidelberg.de](http://comopt.ifi.uni-heidelberg.de/software/TSPLIB95/tsp/){:target="_blank"} <br/> 
-                          VRP: [neo.lcc.uma.es/vrp](https://neo.lcc.uma.es/vrp/vrp-instances/capacitated-vrp-instances/){:target="_blank"} <br/>  |  
+ 3       |              | Las instancias que se trabajarán serán a nivel industrial. Vamos a considerar las siguientes fuentes de datos: <br/> TSP: [comopt.ifi.uni-heidelberg.de](http://comopt.ifi.uni-heidelberg.de/software/TSPLIB95/tsp/){:target="_blank"} <br/> VRP: [neo.lcc.uma.es/vrp](https://neo.lcc.uma.es/vrp/vrp-instances/capacitated-vrp-instances/){:target="_blank"} <br/>  |  
  4       | 26.09.2025   | Entrega de código e informe final.            |  
  
 # Referencias
