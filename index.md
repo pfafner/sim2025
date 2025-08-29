@@ -67,6 +67,7 @@ L3       | 14.08.2025   | Lab 03.                                               
 14       | 21.08.2025   | Operadores de cruce y de mutación. Ejemplos GA. <br/> | Operadores para TSP <br/> [Larrañaga et al.](lectures/Larranaga_GA_for_TSP.pdf){:target="_blank"} 
 L4       | 26.08.2025   | Lab 04.                                                       | [Lab 04](labs/lab04.pdf){:target="_blank"} <br/> **Entrega: 2 de septiembre.**
 15       | 28.08.2025   | Búsqueda local, *Hill-Climbing*. <br/> |   
+16       | 28.08.2025   | Enfriamiento simulado. <br/> |   
 
 
 # Proyectos
