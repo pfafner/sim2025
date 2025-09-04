@@ -68,7 +68,8 @@ L3       | 14.08.2025   | Lab 03.                                               
 L4       | 26.08.2025   | Lab 04.                                                       | [Lab 04](labs/lab04.pdf){:target="_blank"} <br/> **Entrega: 2 de septiembre.**
 15       | 28.08.2025   | Búsqueda local, *Hill-Climbing*. <br/> |   
 16       | 28.08.2025   | Enfriamiento simulado. <br/> |   
-17       | 02.09.2025   | Ecuaciones diferenciales. <br/> | [Apuntes EDO](lectures/Apuntes_EDO.pdf){:target="_blank"}   
+17       | 02.09.2025   | Ecuaciones diferenciales. Existencia y unicidad de soluciones. | [Apuntes EDO](lectures/Apuntes_EDO.pdf){:target="_blank"}   
+18       | 04.09.2025   | Análisis cualitativo de EDO de 1er orden. <br/> | [Análisis Cualitativo](lectures/Analisis_Cualitativo.pdf){:target="_blank"}   
 
 
 # Proyectos
