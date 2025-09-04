@@ -66,8 +66,8 @@ L3       | 14.08.2025   | Lab 03.                                               
 13       | 19.08.2025   | Algoritmos genéticos (GA). <br/> [Aula 15](aulas/Aula15.pdf){:target="_blank"} |  
 14       | 21.08.2025   | Operadores de cruce y de mutación. Ejemplos GA. <br/> | Operadores para TSP <br/> [Larrañaga et al.](lectures/Larranaga_GA_for_TSP.pdf){:target="_blank"} 
 L4       | 26.08.2025   | Lab 04.                                                       | [Lab 04](labs/lab04.pdf){:target="_blank"} <br/> **Entrega: 2 de septiembre.**
-15       | 28.08.2025   | Búsqueda local, *Hill-Climbing*. <br/> |  [Aula 18](aulas/Aula18.pdf){:target="_blank"}   
-16       | 28.08.2025   | Enfriamiento simulado (*Simulated annealing*). <br/> |  [Aula 19](aulas/Aula19.pdf){:target="_blank"}  
+15       | 28.08.2025   | Búsqueda local, *Hill-Climbing*. <br/> [Aula 18](aulas/Aula18.pdf){:target="_blank"} |     
+16       | 28.08.2025   | Enfriamiento simulado (*Simulated annealing*). <br/> [Aula 19](aulas/Aula19.pdf){:target="_blank"} |    
 17       | 02.09.2025   | Ecuaciones diferenciales. Existencia y unicidad de soluciones. | [Apuntes EDO](lectures/Apuntes_EDO.pdf){:target="_blank"}   
 18       | 04.09.2025   | Análisis cualitativo de EDO de 1er orden. <br/> | [Análisis Cualitativo](lectures/Analisis_Cualitativo.pdf){:target="_blank"}   
 
