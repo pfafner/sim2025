@@ -70,6 +70,7 @@ L4       | 26.08.2025   | Lab 04.                                               
 16       | 28.08.2025   | Enfriamiento simulado (*Simulated annealing*). <br/> [Aula 19](aulas/Aula19.pdf){:target="_blank"} |    
 17       | 02.09.2025   | Ecuaciones diferenciales. Existencia y unicidad de soluciones. | [Apuntes EDO](lectures/Apuntes_EDO.pdf){:target="_blank"}   
 18       | 04.09.2025   | Análisis cualitativo de EDO de 1er orden. <br/> | [Análisis Cualitativo](lectures/Analisis_Cualitativo.pdf){:target="_blank"}   
+19       | 04.09.2025   | Campos de vectores. <br/> |    
 
 
 # Proyectos
