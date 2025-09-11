@@ -71,8 +71,9 @@ L4       | 26.08.2025   | Lab 04.                                               
 17       | 02.09.2025   | Ecuaciones diferenciales. Existencia y unicidad de soluciones. | [Apuntes EDO](lectures/Apuntes_EDO.pdf){:target="_blank"}   
 18       | 04.09.2025   | Análisis cualitativo de EDO de 1er orden. <br/> | [Análisis Cualitativo](lectures/Analisis_Cualitativo.pdf){:target="_blank"}   
 19       | 04.09.2025   | Campos de vectores. <br/> |    
-20       | 04.09.2025   | Campos de vectores. <br/> |    
-21       | 06.09.2025   | Campos de vectores. <br/> |    
+20       | 09.09.2025   | Método de las isóclinas. Ecuaciones autónomas. <br/> |    
+L5       | 11.09.2025   | Lab 05.                                                       | [Lab 05](labs/lab04.pdf){:target="_blank"} <br/> **Entrega: 2 de septiembre.**
+  
 
 
 
