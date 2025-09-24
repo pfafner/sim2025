@@ -73,7 +73,7 @@ L4       | 26.08.2025   | Lab 04.                                               
 19       | 04.09.2025   | Campos de vectores. <br/> |    
 20       | 09.09.2025   | Método de las isóclinas. Ecuaciones autónomas. <br/> |    
 L5       | 11.09.2025   | Lab 05.                                                       | [Lab 05](labs/lab05.pdf){:target="_blank"} <br/> **Entrega: 25 de septiembre.**
-21       | 23.09.2025   |   |  
+21       | 23.09.2025   | Puntos de equilibrio en sistemas de EDO. <br/> |   
 
 
 # Proyectos
