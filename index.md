@@ -74,7 +74,8 @@ L4       | 26.08.2025   | Lab 04.                                               
 20       | 09.09.2025   | Método de las isóclinas. Ecuaciones autónomas. <br/> |    
 L5       | 11.09.2025   | Lab 05.                                                       | [Lab 05](labs/lab05.pdf){:target="_blank"} <br/> **Entrega: 25 de septiembre.**
 21       | 23.09.2025   | Puntos de equilibrio en sistemas de EDO. <br/> |   
-22       | 20.09.2025   | Solución numérica de EDOs. <br/> |   
+22       | 30.09.2025   | Solución numérica de EDOs. <br/> |   
+23       | 02.10.2025   | Modelos de Población. <br/> |   
 
 
 # Proyectos
