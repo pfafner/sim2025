@@ -92,14 +92,10 @@ Durante el curso se realizarán dos proyectos.
  3       | 10.10.2025   | Entrega de código e informe final.            |  
 
 
-# Proyectos
-<div id='id-proyectos'/>
+## Horario Proyecto 1
 
-**No.**  | **Fecha**    | **Tópicos**                                   | **Recursos**
--------- | ------------ | --------------------------------------------- |  -------------------------------------
- 1       | 26.08.2025   | Proyecto - *Algoritmos Genéticos + LP*        | [Proyecto 1](proyectos/Proyecto1.pdf){:target="_blank"} <br/> **Entrega: 07 de octubre.** 
- 2       | 07.10.2025   | Presentación del proyecto.                    |  
- 3       | 10.10.2025   | Entrega de código e informe final.            |  
+**Hora**    | **Grupo**    
+----------- | ------------ 
 
 4:30 - Grupo 8
 4:45 - Grupo 3
