@@ -83,13 +83,36 @@ L5       | 11.09.2025   | Lab 05.                                               
 
 Durante el curso se realizarán dos proyectos. 
 
+## Proyecto 1
+
 **No.**  | **Fecha**    | **Tópicos**                                   | **Recursos**
 -------- | ------------ | --------------------------------------------- |  -------------------------------------
  1       | 26.08.2025   | Proyecto - *Algoritmos Genéticos + LP*        | [Proyecto 1](proyectos/Proyecto1.pdf){:target="_blank"} <br/> **Entrega: 07 de octubre.** 
  2       | 07.10.2025   | Presentación del proyecto.                    |  
  3       | 10.10.2025   | Entrega de código e informe final.            |  
 
- 
+
+# Proyectos
+<div id='id-proyectos'/>
+
+**No.**  | **Fecha**    | **Tópicos**                                   | **Recursos**
+-------- | ------------ | --------------------------------------------- |  -------------------------------------
+ 1       | 26.08.2025   | Proyecto - *Algoritmos Genéticos + LP*        | [Proyecto 1](proyectos/Proyecto1.pdf){:target="_blank"} <br/> **Entrega: 07 de octubre.** 
+ 2       | 07.10.2025   | Presentación del proyecto.                    |  
+ 3       | 10.10.2025   | Entrega de código e informe final.            |  
+
+4:30 - Grupo 8
+4:45 - Grupo 3
+5:00 - Grupo 10
+5:15 - Grupo 4
+5:30 - Grupo 2
+5:45 - Grupo 6
+6:00 - Grupo 7
+6:15 - Grupo 9
+6:30 - Grupo 5
+6:45 - Grupo 1
+
+
 # Referencias
 <div id='id-ref'/>
 
