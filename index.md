@@ -97,16 +97,16 @@ Durante el curso se realizarán dos proyectos.
 **Hora**  | **Grupo**    
 --------- | ------------ 
 4:30      | Grupo 8
-4:45      | - Grupo 3
-5:00      | - Grupo 10
-5:15      | - Grupo 4
-5:30      | - Grupo 2
-5:45      | - Grupo 6
-6:00      | - Grupo 7
-6:15      | - Grupo 9
-6:30      | - Grupo 5
-6:45      | - Grupo 1
-
+4:45      | Grupo 3
+5:00      | Grupo 10
+5:15      | Grupo 4
+5:30      | Grupo 2
+5:45      | Grupo 6
+6:00      | Grupo 7
+6:15      | Grupo 9
+6:30      | Grupo 5
+6:45      | Grupo 1
+7:00      | Héctor Daniel Penedo
 
 # Referencias
 <div id='id-ref'/>
