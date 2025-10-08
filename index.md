@@ -76,8 +76,7 @@ L5       | 11.09.2025   | Lab 05.                                               
 21       | 23.09.2025   | Puntos de equilibrio en sistemas de EDO. <br/> |   
 22       | 30.09.2025   | Solución numérica de EDOs. <br/> |   
 23       | 02.10.2025   | Modelos de 1 población: Malthus, Logístico, Gompertz.  |   
-24       | 07.10.2025   | Presentaciones del Primer Proyecto.  |   
-
+24       | 07.10.2025   | Presentación del primer proyecto.  |   
 
 
 # Proyectos
