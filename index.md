@@ -87,12 +87,24 @@ L6       | 14.09.2025   | Lab 06.                                               
 Durante el curso se realizarán dos proyectos. 
 
 ## Proyecto 1
+<div id='id-proy1'/>
 
 **No.**  | **Fecha**    | **Tópicos**                                   | **Recursos**
 -------- | ------------ | --------------------------------------------- |  -------------------------------------
  1       | 26.08.2025   | Proyecto - *Algoritmos Genéticos + LP*        | [Proyecto 1](proyectos/Proyecto1.pdf){:target="_blank"} <br/> **Entrega: 07 de octubre.** 
  2       | 07.10.2025   | Presentación del proyecto.                    |  
  3       | 10.10.2025   | Entrega de código e informe final.            |  
+
+
+## Proyecto 2
+<div id='id-proy2'/>
+
+**No.**  | **Fecha**     | **Tópicos**                                      | **Recursos**
+-------- | ------------  | ------------------------------------------------ |  -------------------------------------
+ 1       | 16.10.2025    | Proyecto - *Modelación o Simulación*.            | [Proyecto](proyectos/Proyecto2.pdf){:target="_blank"} <br/> **Entrega: 22 de noviembre.** 
+ 2       | 04.11.2025    | Fecha límite para elección de tema.              |  
+ 3       | 17-21.11.2025 | Presentaciones.                                  |  
+ 4       | 22.11.2025    | Entrega de código, presentación e informe final. |  
 
 
 ## Horario Proyecto 1
