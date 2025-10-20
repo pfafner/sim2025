@@ -78,7 +78,8 @@ L5       | 11.09.2025   | Lab 05.                                               
 23       | 02.10.2025   | Modelos de 1 población: Malthus, Logístico, Gompertz.  |   
 24       | 07.10.2025   | Presentación del primer proyecto.  |   
 25       | 09.10.2025   | Modelos de 2 poblaciones. Lotka-Volterra. Modelo SIR.  |   
-L6       | 14.09.2025   | Lab 06.                                                       | [Lab 06](labs/lab06.pdf){:target="_blank"} <br/> **Entrega: 19 de octubre.**
+L6       | 14.09.2025   | Lab 06.                                                       | [Lab 06](labs/lab06.pdf){:target="_blank"} <br/> **Entrega: 19 de octubre.** 
+26       |              |  |  
 
 
 # Proyectos
