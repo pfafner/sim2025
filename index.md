@@ -79,7 +79,10 @@ L5       | 11.09.2025   | Lab 05.                                               
 24       | 07.10.2025   | Presentación del primer proyecto.  |   
 25       | 09.10.2025   | Modelos de 2 poblaciones. Lotka-Volterra. Modelo SIR.  |   
 L6       | 14.09.2025   | Lab 06.                                                       | [Lab 06](labs/lab06.pdf){:target="_blank"} <br/> **Entrega: 19 de octubre.** 
-26       |              |  |  
+26       | 21.10.2025   | Solución de EDP por diferencias finitas. <br/>  |   
+27       | 23.10.2025   | Revisión de variables aleatorias. Densidad, función de distribucipón.  |   
+28       | 23.10.2025   | Generación de números pseudo-aleatorios: LCG, CG, Mersenne Twister. |
+29       | 28.10.2025   | Generación de variables aleatorias: transformada integral. |
 
 
 # Proyectos
