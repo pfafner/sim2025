@@ -111,21 +111,14 @@ Durante el curso se realizarán dos proyectos.
  4       | 22.11.2025    | Entrega de código, presentación e informe final. |  
 
 
-## Horario Proyecto 1
+## Temas Elegidos para Proyecto 2
+<div id='id-proy2'/>
 
-**Hora**  | **Grupo**    
---------- | ------------ 
-4:30      | Grupo 8
-4:45      | Grupo 3
-5:00      | Grupo 10
-5:15      | Grupo 4
-5:30      | Grupo 2
-5:45      | Grupo 6
-6:00      | Grupo 7
-6:15      | Grupo 9
-6:30      | Grupo 5
-6:45      | Grupo 1
-7:00      | Héctor Daniel Penedo
+**Grupo**  | **Integrantes**                                    | **Tema**      
+---------- | -------------------------------------------------- | ----------------------------------------
+ Grupo 1   | André Jo, Daniel Rayo, Falvio Galán                | Simulación de Boids 
+ Grupo 5   | Sebastián Huertas, Josué Marroquín, Irving Morales | Modelación de Tráfico vehicular - dinámica y congestión
+ 
 
 # Referencias
 <div id='id-ref'/>
