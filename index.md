@@ -83,7 +83,7 @@ L6       | 14.10.2025   | Lab 06.                                               
 27       | 23.10.2025   | Revisión de variables aleatorias. Densidad, función de distribucipón.  |   
 28       | 23.10.2025   | Generación de números pseudo-aleatorios: LCG, CG, Mersenne Twister. |
 29       | 28.10.2025   | Generación de variables aleatorias: transformada integral. |
-L6       | 30.10.2025   | Lab 07.                                                       | [Lab 07](labs/lab07.pdf){:target="_blank"} <br/> **Entrega: 6 de noviembre.**
+L7       | 30.10.2025   | Lab 07.                                                       | [Lab 07](labs/lab07.pdf){:target="_blank"} <br/> **Entrega: 6 de noviembre.**
 
 
 # Proyectos
