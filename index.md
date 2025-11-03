@@ -118,8 +118,9 @@ Durante el curso se realizarán dos proyectos.
 
 **Grupo**  | **Integrantes**                                    | **Tema**      
 ---------- | -------------------------------------------------- | ----------------------------------------
- Grupo 1   | André Jo, Daniel Rayo, Falvio Galán                | Simulación de Boids 
- Grupo 5   | Sebastián Huertas, Josué Marroquín, Irving Morales | Modelación de Tráfico vehicular - dinámica y congestión
+ Grupo 1   | André Jo, Daniel Rayo, Falvio Galán                | Simulación de boids 
+ Grupo 5   | Sebastián Huertas, Josué Marroquín, Irving Morales | Modelación de tráfico vehicular  
+ Grupo 8   | Abby Donis, Cindy Gualim, Josué Say                | Simulación de un sistema de colas 
  
 
 # Referencias
