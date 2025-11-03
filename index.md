@@ -121,7 +121,9 @@ Durante el curso se realizarán dos proyectos.
  Grupo 1   | André Jo, Daniel Rayo, Falvio Galán                | Simulación de boids 
  Grupo 5   | Sebastián Huertas, Josué Marroquín, Irving Morales | Modelación de tráfico vehicular  
  Grupo 8   | Abby Donis, Cindy Gualim, Josué Say                | Simulación de un sistema de colas 
- 
+ Grupo     | Madeline Castro, Xavier López, Gerson Ramírez      | Sistema de depredador-presa 
+
+
 
 # Referencias
 <div id='id-ref'/>
