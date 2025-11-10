@@ -126,8 +126,8 @@ Grupo      | Ana Laura Tschen, Sebastián García                 | Simulación 
 Grupo      | Edwin Ortega, Esteban Zambrano                     | Difusión de calor en placas  
 Grupo 3    | Gerardo Pineda, Ricardo Chuy, César López          | Simulación Túnel de viento 
 Grupo      | Diego Valenzuela, Daniel Dubon, Bianca Calderon    | Comparación de M/M/1 y M/M/g 
-Grupo      | Roberto Barreda, José Molina, Carlos Alburez       | Propagación epidemiológica 
-
+Grupo      | Roberto Barreda, José Molina, Carlos Alburez       | Propagación epidemiológica  
+Grupo      | Héctor Penedo                                      | Generación de variables aleatorias 
 
 
 # Referencias
