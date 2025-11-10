@@ -84,7 +84,7 @@ L6       | 14.10.2025   | Lab 06.                                               
 28       | 23.10.2025   | Generación de números pseudo-aleatorios: LCG, CG, Mersenne Twister. |
 29       | 28.10.2025   | Generación de variables aleatorias: transformada integral. |
 L7       | 30.10.2025   | Lab 07.                                                       | [Lab 07](labs/lab07.pdf){:target="_blank"} <br/> **Entrega: 6 de noviembre.** 
-30       |              |  |  
+30       | 04.10.2025   | Generación de variables aleatorias: método de aceptación-rechazo. |
 
 
 # Proyectos
