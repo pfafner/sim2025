@@ -116,18 +116,18 @@ Durante el curso se realizarán dos proyectos.
 ## Temas Elegidos para Proyecto 2
 <div id='id-proy2'/>
 
-**Grupo**  | **Integrantes**                                    | **Tema**      
----------- | -------------------------------------------------- | ----------------------------------------
-Grupo 1    | André Jo, Daniel Rayo, Falvio Galán                | Simulación de boids 
-Grupo 5    | Sebastián Huertas, Josué Marroquín, Irving Morales | Modelación de tráfico vehicular  
-Grupo 8    | Abby Donis, Cindy Gualim, Josué Say                | Simulación de un sistema de colas 
-Grupo      | Madeline Castro, Xavier López, Gerson Ramírez      | Sistema de depredador-presa  
-Grupo      | Ana Laura Tschen, Sebastián García                 | Simulación de movimiento colectivo
-Grupo      | Edwin Ortega, Esteban Zambrano                     | Difusión de calor en placas  
-Grupo 3    | Gerardo Pineda, Ricardo Chuy, César López          | Simulación Túnel de viento 
-Grupo      | Diego Valenzuela, Daniel Dubon, Bianca Calderon    | Comparación de M/M/1 y M/M/g 
-Grupo      | Roberto Barreda, José Molina, Carlos Alburez       | Propagación epidemiológica  
-Grupo      | Héctor Penedo                                      | Generación de variables aleatorias 
+**Fecha**  | **Grupo**  | **Integrantes**                                    | **Tema**      
+---------- | ---------- | -------------------------------------------------- | ----------------------------------------
+17.11.2025 | Grupo 1    | André Jo, Daniel Rayo, Falvio Galán                | Simulación de boids 
+17.11.2025 | Grupo 5    | Sebastián Huertas, Josué Marroquín, Irving Morales | Modelación de tráfico vehicular  
+17.11.2025 | Grupo 8    | Abby Donis, Cindy Gualim, Josué Say                | Simulación de un sistema de colas 
+17.11.2025 | Grupo      | Madeline Castro, Xavier López, Gerson Ramírez      | Sistema de depredador-presa  
+17.11.2025 | Grupo      | Ana Laura Tschen, Sebastián García                 | Simulación de movimiento colectivo
+17.11.2025 | Grupo      | Edwin Ortega, Esteban Zambrano                     | Difusión de calor en placas  
+17.11.2025 | Grupo 3    | Gerardo Pineda, Ricardo Chuy, César López          | Simulación Túnel de viento 
+17.11.2025 | Grupo      | Diego Valenzuela, Daniel Dubon, Bianca Calderon    | Comparación de M/M/1 y M/M/g 
+17.11.2025 | Grupo      | Roberto Barreda, José Molina, Carlos Alburez       | Propagación epidemiológica  
+17.11.2025 | Grupo      | Héctor Penedo                                      | Generación de variables aleatorias 
 
 
 # Referencias
