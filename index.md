@@ -118,16 +118,17 @@ Durante el curso se realizarán dos proyectos.
 
 **Fecha**  | **Grupo**  | **Integrantes**                                    | **Tema**      
 ---------- | ---------- | -------------------------------------------------- | ----------------------------------------
-17.11.2025 | Grupo 1    | André Jo, Daniel Rayo, Falvio Galán                | Simulación de boids 
+17.11.2025 | Grupo 9    | Madeline Castro, Xavier López, Gerson Ramírez      | Sistema de Depredador-Presa  
 17.11.2025 | Grupo 5    | Sebastián Huertas, Josué Marroquín, Irving Morales | Modelación de tráfico vehicular  
-17.11.2025 | Grupo 8    | Abby Donis, Cindy Gualim, Josué Say                | Simulación de un sistema de colas 
-17.11.2025 | Grupo      | Madeline Castro, Xavier López, Gerson Ramírez      | Sistema de depredador-presa  
-17.11.2025 | Grupo      | Ana Laura Tschen, Sebastián García                 | Simulación de movimiento colectivo
-17.11.2025 | Grupo      | Edwin Ortega, Esteban Zambrano                     | Difusión de calor en placas  
-17.11.2025 | Grupo 3    | Gerardo Pineda, Ricardo Chuy, César López          | Simulación Túnel de viento 
-17.11.2025 | Grupo      | Diego Valenzuela, Daniel Dubon, Bianca Calderon    | Comparación de M/M/1 y M/M/g 
-17.11.2025 | Grupo      | Roberto Barreda, José Molina, Carlos Alburez       | Propagación epidemiológica  
-17.11.2025 | Grupo      | Héctor Penedo                                      | Generación de variables aleatorias 
+17.11.2025 | Grupo 6    | Edwin Ortega, Esteban Zambrano                     | Conducción de calor en una placa 
+18.11.2025 | Grupo 4    | Ana Laura Tschen, Sebastián García                 | Modelación de ecuaciones Navier-Stokes
+18.11.2025 | Grupo 7    | Diego Valenzuela, Daniel Dubon, Bianca Calderon    | Sistema de colas M/M/1 y M/M/g 
+20.11.2025 | Grupo 2    | Roberto Barreda, Carlos Alburez, Nery Molina       | Modelación Epidemiológica con SEIR 
+20.11.2025 | Grupo 1    | André Jo, Daniel Rayo, Falvio Galán                | Simulación de movimiento colectivo 
+20.11.2025 | Grupo 8    | Abby Donis, Cindy Gualim, Josué Say                | Modelación de un sistema de colas 
+20.11.2025 | Grupo 3    | Gerardo Pineda, Ricardo Chuy, César López          | Simulación de un Túnel de viento 
+20.11.2025 | Grupo 10   | Mathew Cordero, Gustavo Cruz, Pedro Guzmán         | Dispersión del aire radiacion en Chernobyl
+19.11.2025 | Grupo 11   | Héctor Penedo                                      | Generación de variables aleatorias 
 
 
 # Referencias
