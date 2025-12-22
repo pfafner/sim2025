@@ -111,7 +111,7 @@ Durante el curso se realizarán dos proyectos.
  1       | 16.10.2025    | Proyecto - *Modelación y Simulación*.            | [Proyecto](proyectos/Proyecto2.pdf){:target="_blank"} <br/> **Entrega: 22 de noviembre.** 
  2       | 04.11.2025    | Fecha límite para elección de tema.              |  
  3       | 17-21.11.2025 | Presentaciones.                                  |  
- 4       | 22.11.2025    | Entrega de código, presentación e informe final. |  
+ 4       | 22.11.2025    | Entrega de código e informe final.               |  
 
 
 
