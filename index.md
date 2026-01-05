@@ -98,7 +98,7 @@ Durante el curso se realizarán dos proyectos.
 
 **No.**  | **Fecha**    | **Tópicos**                                   | **Recursos**
 -------- | ------------ | --------------------------------------------- |  -------------------------------------
- 1       | 26.08.2025   | Proyecto - *Algoritmos Genéticos + LP*        | [Proyecto 1](proyectos/Proyecto1.pdf){:target="_blank"} <br/> **Entrega: 07 de octubre.** 
+ 1       | 26.08.2025   | Proyecto - *Optimización - Algoritmos Genéticos*        | [Proyecto 1](proyectos/Proyecto1.pdf){:target="_blank"} <br/> **Entrega: 07 de octubre.** 
  2       | 07.10.2025   | Presentación del proyecto.                    |  
  3       | 10.10.2025   | Entrega de código e informe final.            |  
 
